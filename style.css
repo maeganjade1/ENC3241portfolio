@@ -1,7 +1,7 @@
 /* COLORS - Change these to personalize your site */
 :root {
-  --primary: #875f87;    /* Purple */
-  --accent: #878700;     /* Green */
+  --primary: #878700;    /* Green */
+  --accent: #875f87;     /* Purple */
   --text: #333;
   --background: #fff;
 }
