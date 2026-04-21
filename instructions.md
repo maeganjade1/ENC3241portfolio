@@ -1,49 +1,46 @@
 # Instructions
-_This set of technical instructions was created as part of my coursework for ENC 3241 – Writing for the Technical Professional. It serves as a sample document demonstrating my ability to produce clear, well‑structured, and audience‑focused procedural writing. While the instructions reflect real technical communication skills, they are presented here primarily for academic and portfolio purposes.
-_
-
-## How to Prepare a Latte
+## How to Prepare a Latte  
 This document provides instructions for preparing a standard 16‑ounce hot latte, using an
-automatic espresso machine.
+automatic espresso machine.  
+
 **Step 1:** Turn on the espresso machine using the “on/off” switch located on the back of the
-machine.
-**Step 2:** Using a measuring cup and a scale, weigh 18g of espresso beans.
+machine.  
+**Step 2:** Using a measuring cup and a scale, weigh 18g of espresso beans.  
 **Step 3:** Pour the 18g of beans into the bean hopper.
 
 ![Alt Text1](https://www.artisancoffeeco.com/cdn/shop/articles/iStock-618340264_1786x1192.jpg?v=1634830001)
-_Image 1: Grinding Espresso Beans (Source: Artisan Coffee Co)
-_
-**Step 4:** Take an empty portafilter and set it into the prongs of a grinder machine.
-**Step 5:** Press the grind button to run the machine. (Refer to Image 1)
+_Image 1: Grinding Espresso Beans (Source: Artisan Coffee Co)_  
+
+**Step 4:** Take an empty portafilter and set it into the prongs of a grinder machine.  
+**Step 5:** Press the grind button to run the machine. (Refer to Image 1)  
 **Step 6:** Take the portafilter from the machine and position it at the edge of a counter.
 
-![Alt Text2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fVnK45rUWY9nkPztm8-yWF4tcEPxVpan8A&s)
-_Image 2: Tamp (Source: UNIC)
-_
-**Step 7:** Using an espresso tamper, press downwards to pack in the espresso powder. (Refer to
-Image 2)
-**Step 9:** Take the portafilter and place it into the grouphead of the espresso machine.
-**Step 10:** Press the button above the grouphead to pull the espresso shots into a mug.
-**Step 11:** While the espresso shots are pulling, pour 14 oz of a milk into a milk pitcher.
+![Alt Text2](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3fVnK45rUWY9nkPztm8-yWF4tcEPxVpan8A&s)  
+_Image 2: Tamp (Source: UNIC)_  
 
-![Alt Text3](data:image/jpeg;base64,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)
-_Image 3: Steaming Milk (Source: wikiHow)
-_
+**Step 7:** Using an espresso tamper, press downwards to pack in the espresso powder. (Refer to
+Image 2)  
+**Step 9:** Take the portafilter and place it into the grouphead of the espresso machine.  
+**Step 10:** Press the button above the grouphead to pull the espresso shots into a mug.  
+**Step 11:** While the espresso shots are pulling, pour 14 oz of a milk into a milk pitcher.  
+
+![Alt Text3](https://www.wikihow.com/images/thumb/3/39/Steam-Milk-Step-5-Version-2.jpg/550px-nowatermark-Steam-Milk-Step-5-Version-2.jpg)  
+_Image 3: Steaming Milk (Source: wikiHow)_  
+
 **Step 12:** Tilt the milk pitcher away from you and towards the machine, creating a 45° angle.
-(Refer to Image 3)
+(Refer to Image 3)  
 **Step 13:** Submerge the steam wand slightly under the milk’s surface, and turn on the steam
 wand. Hold the pitcher in place until it reaches 150° F. (WARNING: The milk pitcher will
 become very hot. Make sure your hand remains safely on around the pitcher handle to
-avoid getting burned.)
+avoid getting burned.)  
 
 ![Alt Text4](https://www.roastycoffee.com/wp-content/uploads/how-to-make-a-latte-with-keurig-scaled.jpeg)
-_Image 4: Pouring Steamed Milk (Source: Roasty Coffee)
-_
+_Image 4: Pouring Steamed Milk (Source: Roasty Coffee)_  
+
 **Step 17:** Grab both the coffee mug and the steamed milk pitcher and hold them inwards at an
-angle. (Note: Hold the pitcher about 2-3 inches about the espresso to create distance)
+angle. (Note: Hold the pitcher about 2-3 inches about the espresso to create distance)  
 **Step 18:** Pour the milk slowly and steadily, giving the espresso and the milk time to blend
-together. Enjoy. (Refer to Image 5)
+together. Enjoy. (Refer to Image 5)  
 
 ![Alt Text5](https://www.mashed.com/img/gallery/the-coffee-shop-ordering-faux-pas-that-is-ruining-your-latte/l-intro-1701298273.jpg)
-_Image 5: Final Result of a Hot Latte (Source: Mashed)
-_
+_Image 5: Final Result of a Hot Latte (Source: Mashed)_
