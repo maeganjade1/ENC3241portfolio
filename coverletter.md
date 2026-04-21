@@ -1,4 +1,4 @@
- # Cover Letter
+# Cover Letter
 _This cover letter was developed as part of my coursework for ENC 3241 – Writing for the Technical Professional. It serves as a sample document demonstrating my ability to apply technical writing principles such as clarity, audience awareness, and professional tone. While it reflects my real interests and communication style, it is presented here primarily for academic and portfolio purposes._
 
 234 Rainbow Lane  
@@ -22,6 +22,7 @@ My background in UX/UI design comes from elective coursework and independent pro
 I am drawn to Siemens Energy’s commitment to modernization and sustainable energy solutions. Your focus on digital transformation within the Quality department aligns with my interest in building systems that support clarity, accuracy, and continuous improvement.  
 
 Thank you for considering my application. I welcome the opportunity to discuss how my technical skills and collaborative mindset can support your team.  
+
 
 Sincerely,  
 
