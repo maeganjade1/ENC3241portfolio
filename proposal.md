@@ -4,12 +4,12 @@ _This proposal presents a research concept focused on an activation timer design
 **Using an Activation Timer to Improve Task Initiation in College Students with ADHD**  
 Maegan Pierre, Information Technology
 
-**Background**   
+**Background:**   
 College students with ADHD frequently struggle with task initiation, a core component of executive dysfunction. Recent research shows that ADHD‑related working‑memory limitations and cognitive load sensitivity make it difficult to begin tasks, even when students understand what needs to be done (Onandia‑Hinchado et al., 2021). High cognitive load has been shown to significantly worsen performance and increase reaction‑time variability in individuals with ADHD, indicating that complex or high‑pressure task environments can overwhelm cognitive resources (Fisher et al., 2023). Additional studies confirm that ADHD brains exhibit reduced neural efficiency under cognitive load, which further impairs the ability to start tasks that feel large, ambiguous, or emotionally demanding (Le Cunff et al., 2023).  
 
 Traditional productivity tools, such as Pomodoro timers, emphasize sustained attention through long, rigid intervals. However, these systems do not address the activation energy barrier—the psychological difficulty of starting a task—which is often the primary challenge for ADHD individuals. Working‑memory deficits and inhibition difficulties further contribute to delays in task initiation (Kofler et al., 2024). Because non‑pharmacological interventions for ADHD remain limited (Chaulagain et al., 2023), there is a clear need for simple, accessible tools that reduce cognitive load and support the earliest stage of academic engagement: getting started.
 
-**Methodology**   
+**Methodology:**   
 _Step 1:_ Develop the Activation Timer Prototype: Before data collection begins, I will develop a minimalist “activation timer” interface designed specifically to reduce cognitive overload. The tool will feature a single‑tap start button, short 2–5-minute intervals, and an optional prompt where students can enter a small, low‑pressure task (ex: “Read the assignment’s instructions.”). The interface will intentionally be designed for simplicity and readability: avoiding complex menus, settings, or any visual clutter to prevent overwhelm. This prototype will be tested with proctors to ensure usability and consistency across participants.  
 
 _Step 2:_ Participant Recruitment: This project will recruit 10–20 UCF students formally registered with Student Accessibility Services (SAS) for ADHD accommodations. SAS registration ensures that all participants have documented ADHD diagnoses and are actively receiving academic accommodations. Recruitment will occur through SAS email lists or bulletin postings around campus.  
@@ -22,13 +22,13 @@ _Step 5:_ Qualitative Interviews and Feedback:  After completing both timer cond
 
 _Step 6:_ Interpret and Analyze Data: Quantitative data, such as task initiation time, self‑reported difficulty ratings, and the number of small tasks completed, will be examined to see how each participant’s performance differs between the two timer conditions. This comparison will help determine whether the activation timer leads to faster or easier task initiation than the standard Pomodoro timer. Qualitative interview responses will be reviewed for repeated ideas or patterns, such as feeling less overwhelmed, finding it easier to begin the task, or experiencing stress related to the timer. By combining these behavioral and self‑reported insights, I will be able to assess whether the activation timer offers meaningful advantages over traditional timing systems for ADHD students registered with SAS.
 
-**Anticipated Outcomes**  
+**Anticipated Outcomes:**  
 I anticipate that students using the activation timer will begin tasks more quickly and report lower levels of mental effort compared to when they use a traditional Pomodoro‑style timer. Because the activation timer emphasizes short, low‑pressure intervals, participants are expected to feel less overwhelmed and more willing to start small academic tasks. I also expect students to complete more micro‑tasks during the activation‑timer condition, though some participants may show smaller differences depending on their existing study habits. Overall, the combined behavioral and self‑reported data should indicate that a simplified activation timer provides measurable advantages for ADHD learners by making the first step of academic work feel more manageable. Additionally, I plan to submit this project to the OUR Student Research Grant during the next application cycle in October. 
 
-**Significance**  
+**Significance:**  
 This project addresses a clear gap in existing ADHD support tools: most are designed solely to support sustained attention, while far fewer target the earlier and often more challenging stage of task initiation. For many students with ADHD, the primary barrier is not maintaining focus once they begin, but overcoming the initial mental load required to start. By evaluating a simple, low‑pressure activation timer, this research has the potential to guide the development of more accessible academic tools that better align with the cognitive needs of ADHD learners. The results can also contribute to broader research in human–computer interaction, by demonstrating how interface design can meaningfully influence executive function and mental workload. 
 
-**References**  
+**References:**  
 1.	Chaulagain, Ashmita, et al. “A Systematic Meta-Review of Systematic Reviews on Attention Deficit Hyperactivity Disorder.” European Psychiatry, vol. 66, no. 1, 2023, p. e90. DOI.org (Crossref), https://doi.org/10.1192/j.eurpsy.2023.2451.
 
 2.	Fisher, Jacob T., et al. “Cognitive and Perceptual Load Have Opposing Effects on Brain Network Efficiency and Behavioral Variability in ADHD.” Network Neuroscience, vol. 7, no. 4, Dec. 2023, pp. 1483–96. DOI.org (Crossref), https://doi.org/10.1162/netn_a_00336.
@@ -39,44 +39,43 @@ This project addresses a clear gap in existing ADHD support tools: most are desi
 
 5.	Onandia-Hinchado, Iban. Cognitive Characterization of Adult Attention Deficit Hyperactivity Disorder by Domains: A Systematic Review. June 2021. www.academia.edu, https://doi.org/10.1007/S00702-021-02302-6.
 
-
-**Timeline**  
+**Timeline:**  
 **January 1, 2027- February 1, 2027**  
-  •	Finalize study design
-  •	Design, test and finalize activation‑timer prototype
-  •	Prepare participant questions and consent materials
+  •	Finalize study design  
+  •	Design, test and finalize activation‑timer prototype  
+  •	Prepare participant questions and consent materials  
   
 **February 1, 2027- March 1, 2027**  
-  •	Recruit 10-20 participants registered with SAS
-  •	Refine instructions and survey items
+  •	Recruit 10-20 participants registered with SAS  
+  •	Refine instructions and survey items  
   
-**March 1, 2027- April 15, 2027**	
-  •	Run data collection
-  •	Proctor surveys and task-initiation trials
+**March 1, 2027- April 15, 2027**  
+  •	Run data collection  
+  •	Proctor surveys and task-initiation trials  
   
 **April 15, 2027- June 1, 2027**  
-  •	Analyze behavioral and self-report data
-  •	Identify meaningful patterns in task initiation
-  •	Draft findings
+  •	Analyze behavioral and self-report data  
+  •	Identify meaningful patterns in task initiation  
+  •	Draft findings  
   
 **June 1, 2027- October 1, 2027**  
-  •	Revise full proposal 
-  •	Write report based on compiled and analyzed data
-  •	Submit to OUR Student Research Grant
+  •	Revise full proposal   
+  •	Write report based on compiled and analyzed data  
+  •	Submit to OUR Student Research Grant  
 
 
-**Budget**  
+**Budget:**  
 Qualtrics Survey Add‑On – $25.00  
-  •	This upgrade lets me add a built‑in timer and other features needed to measure how long it takes participants to start a task.
-    o	UCF gives student a free account, but it doesn’t include these tools.
+- This upgrade lets me add a built‑in timer and other features needed to measure how long it takes participants to start a task.
+  - UCF gives student a free account, but it doesn’t include these tools.
     
 Timer Software License – $20.00  
-  •	This software provides a simple, reliable countdown timer that participants will use during the study.
-  •	It ensures every participant gets the same timing experience.
+- This software provides a simple, reliable countdown timer that participants will use during the study.
+- It ensures every participant gets the same timing experience.
   
 Printing and Office Supplies – $8.00  
-  •	Covers printing consent forms, instructions, and other materials participants need to read before the study.
-  •	Required for organization and for meeting research documentation standards.  
+- Covers printing consent forms, instructions, and other materials participants need to read before the study.
+- Required for organization and for meeting research documentation standards.  
   
 **Total Funding Amount Requested: $53.00**
 
