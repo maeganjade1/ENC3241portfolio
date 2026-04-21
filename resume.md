@@ -5,7 +5,7 @@ _This resume was created as part of my coursework for ENC 3241 – Writing for t
 Orlando, FL | sample@ucf.edu | LinkedIn: https://www.linkedin.com/in/maeganpierre/
 
 ## Education
-University of Central Florida, Orlando, FL                      December 2026 (anticipated)
+University of Central Florida, Orlando, FL –– December 2026 (anticipated)
 
 B.S. in Information Technology
 
