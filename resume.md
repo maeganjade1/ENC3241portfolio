@@ -3,7 +3,7 @@ _This resume was created as part of my coursework for ENC 3241 – Writing for t
 
 ## Maegan Pierre
 
-Orlando, FL | maXXXXXX@ucf.edu |
+Orlando, FL | sample@ucf.edu |
 LinkedIn: https://www.linkedin.com/in/maeganpierre/
 
 ## Education
