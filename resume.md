@@ -35,7 +35,7 @@ _March 2025 – Febuary 2026_
 - Build rapport with regular customers and contribute to a welcoming café atmosphere
 
 ## Projects
-Soundsphere – Human-Centered Design and Development Class Project  
+Soundsphere – Human-Centered Design and Development Course  
 _May 2025_   
 - Designed a high-fidelity app prototype in Figma, including wireframes, interactive components, and user flows tailored
 to music discovery, artist engagement, and community interaction
