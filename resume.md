@@ -25,6 +25,7 @@ ___Operating Systems:___ Windows, Linux, macOS
 
 **UX/UI Designer – OASIS (Early-stage travel-tech startup), Remote**                                
 _May 2025 – Present_
+
 - Collaborate with a 4-member UX/UI design team to build a travel-based social media platform integrating AI-powered
 itinerary planning and community-driven content
 - Design wireframes, user flows, and high-fidelity prototypes using Figma to support features like itinerary sharing,
@@ -33,6 +34,7 @@ personalized recommendations, and user profiles
 
 **Barista – Foxtail Coffee Company, Winter Park, FL**
 _March 2025 – Febuary 2026_
+
 - Prepare and serve beverages in a fast-paced environment while maintaining high standards of customer service
 - Operate POS systems, manage inventory, and ensure cleanliness and safety standards
 - Build rapport with regular customers and contribute to a welcoming café atmosphere
@@ -40,6 +42,7 @@ _March 2025 – Febuary 2026_
 ## Projects
 SOUNDSPHERE – Human-Centered Design and Development Class Project 
 _May 2025_ 
+
 - Designed a high-fidelity app prototype in Figma, including wireframes, interactive components, and user flows tailored
 to music discovery, artist engagement, and community interaction
 - Collaborated in a 4-member team to create a user-centered app concept aimed at bridging the gaps in music exploration,
