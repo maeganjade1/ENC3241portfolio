@@ -9,6 +9,7 @@ machine.
 **Step 3:** Pour the 18g of beans into the bean hopper.
 
 ![Alt Text1](https://www.artisancoffeeco.com/cdn/shop/articles/iStock-618340264_1786x1192.jpg?v=1634830001)
+<img src="[https://link-to-your-image.png](https://www.artisancoffeeco.com/cdn/shop/articles/iStock-618340264_1786x1192.jpg?v=1634830001)" width="400">  
 _Image 1: Grinding Espresso Beans (Source: Artisan Coffee Co)_  
 
 **Step 4:** Take an empty portafilter and set it into the prongs of a grinder machine.  
