@@ -1,7 +1,7 @@
 # Proposal
 _This proposal presents a research concept focused on an activation timer designed to help college students with ADHD initiate tasks more effectively. Created for ENC 3241 – Writing for the Technical Professional, it serves as a sample demonstrating my ability to communicate a technical project clearly and professionally for academic and portfolio purposes._
 
-**Title: Using an Activation Timer to Improve Task Initiation in College Students with ADHD**  
+**Using an Activation Timer to Improve Task Initiation in College Students with ADHD**  
 **Maegan Pierre**  
 **Information Technology**
 
