@@ -1,5 +1,5 @@
 # Resume
-_This résumé was created as part of my coursework for ENC 3241 – Writing for the Technical Professional. It serves as a sample document demonstrating my ability to apply technical writing principles, including clarity, organization, and professional formatting. While it reflects my real skills and experience, it is presented here primarily for academic and portfolio purposes._
+_This resume was created as part of my coursework for ENC 3241 – Writing for the Technical Professional. It serves as a sample document demonstrating my ability to apply technical writing principles, including clarity, organization, and professional formatting. While it reflects my real skills and experience, it is presented here primarily for academic and portfolio purposes._
 
 ## Maegan Pierre
 
