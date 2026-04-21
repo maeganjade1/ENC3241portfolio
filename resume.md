@@ -25,31 +25,31 @@ Operating Systems: Windows, Linux, macOS
 
 **UX/UI Designer – OASIS (Early-stage travel-tech startup), Remote  **                                
 _May 2025 – Present_
-- Collaborate with a 4-member UX/UI design team to build a travel-based social media platform integrating AI-powered
+●  Collaborate with a 4-member UX/UI design team to build a travel-based social media platform integrating AI-powered
 itinerary planning and community-driven content
-- Design wireframes, user flows, and high-fidelity prototypes using Figma to support features like itinerary sharing,
+●  Design wireframes, user flows, and high-fidelity prototypes using Figma to support features like itinerary sharing,
 personalized recommendations, and user profiles
-- Conduct user research and usability testing to inform design decisions and enhance user experience
+●  Conduct user research and usability testing to inform design decisions and enhance user experience
 
 **Barista – Foxtail Coffee Company, Winter Park, FL **
 _March 2025 – Febuary 2026_
-- Prepare and serve beverages in a fast-paced environment while maintaining high standards of customer service
-- Operate POS systems, manage inventory, and ensure cleanliness and safety standards
-- Build rapport with regular customers and contribute to a welcoming café atmosphere
+●  Prepare and serve beverages in a fast-paced environment while maintaining high standards of customer service
+●  Operate POS systems, manage inventory, and ensure cleanliness and safety standards
+●  Build rapport with regular customers and contribute to a welcoming café atmosphere
 
 ## Projects
 SOUNDSPHERE – Human-Centered Design and Development Class Project May 2025 
-- Designed a high-fidelity app prototype in Figma, including wireframes, interactive components, and user flows tailored
+●  Designed a high-fidelity app prototype in Figma, including wireframes, interactive components, and user flows tailored
 to music discovery, artist engagement, and community interaction
-- Collaborated in a 4-member team to create a user-centered app concept aimed at bridging the gaps in music exploration,
+●  Collaborated in a 4-member team to create a user-centered app concept aimed at bridging the gaps in music exploration,
 discussion, and community-building
-- Developed detailed user personas and led a live demo walkthrough to illustrate personalized user journeys and app
+●  Developed detailed user personas and led a live demo walkthrough to illustrate personalized user journeys and app
 functionality
-- Created a presentation deck and pitched the concept, winning first place in the class competition for innovation and
+●  Created a presentation deck and pitched the concept, winning first place in the class competition for innovation and
 design
 
 ## Leadership and Involvement
-- Girls Who Code @ UCF – Event Coordinator
-- Strike Magazine - Events Assistant
-- National Society of Black Engineers – TORCH & PCI Committee Member
-- Color Me Queer - Events Committee Member
+●  Girls Who Code @ UCF – Event Coordinator
+●  Strike Magazine - Events Assistant
+●  National Society of Black Engineers – TORCH & PCI Committee Member
+●  Color Me Queer - Events Committee Member
