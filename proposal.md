@@ -2,7 +2,8 @@
 _This proposal presents a research concept focused on an activation timer designed to help college students with ADHD initiate tasks more effectively. Created for ENC 3241 – Writing for the Technical Professional, it serves as a sample demonstrating my ability to communicate a technical project clearly and professionally for academic and portfolio purposes._
 
 **Title: Using an Activation Timer to Improve Task Initiation in College Students with ADHD**  
-**Maegan Pierre**     				      		                        	**Information Technology**
+**Maegan Pierre**  
+**Information Technology**
 
 **Background**   
 College students with ADHD frequently struggle with task initiation, a core component of executive dysfunction. Recent research shows that ADHD‑related working‑memory limitations and cognitive load sensitivity make it difficult to begin tasks, even when students understand what needs to be done (Onandia‑Hinchado et al., 2021). High cognitive load has been shown to significantly worsen performance and increase reaction‑time variability in individuals with ADHD, indicating that complex or high‑pressure task environments can overwhelm cognitive resources (Fisher et al., 2023). Additional studies confirm that ADHD brains exhibit reduced neural efficiency under cognitive load, which further impairs the ability to start tasks that feel large, ambiguous, or emotionally demanding (Le Cunff et al., 2023).  
