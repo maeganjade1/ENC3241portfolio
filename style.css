@@ -1,8 +1,8 @@
 /* COLORS - Change these to personalize your site */
 :root {
   --primary: #7E66B0;    /* Purple */
-  --accent: #000000;     /* Black */
-  --text: #333;
+  --accent: #7E66B0;     /* Purple */
+  --text: #000000;      /* Black */
   --background: #fff;
 }
 
