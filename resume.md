@@ -1,14 +1,12 @@
 # Resume
 _This resume was created as part of my coursework for ENC 3241 – Writing for the Technical Professional. It serves as a sample document demonstrating my ability to apply technical writing principles, including clarity, organization, and professional formatting. While it reflects my real skills and experience, it is presented here primarily for academic and portfolio purposes._
 
-## Maegan Pierre
+# Maegan Pierre
 Orlando, FL | sample@ucf.edu | LinkedIn: https://www.linkedin.com/in/maeganpierre/
 
 ## Education
-University of Central Florida, Orlando, FL –– December 2026 (anticipated)
-
+University of Central Florida, Orlando, FL --- December 2026 (anticipated)
 B.S. in Information Technology
-
 GPA: 3.0/4.0
 
 ## Summary
@@ -28,8 +26,7 @@ ___Operating Systems:___ Windows, Linux, macOS
 
 ## Work Experience
 
-**UX/UI Designer – OASIS (Early-stage travel-tech startup), Remote**       
-
+**UX/UI Designer – OASIS (Early-stage travel-tech startup), Remote**
 _May 2025 – Present_
 
 - Collaborate with a 4-member UX/UI design team to build a travel-based social media platform integrating AI-powered
@@ -42,7 +39,6 @@ personalized recommendations, and user profiles
 
 
 **Barista – Foxtail Coffee Company, Winter Park, FL**
-
 _March 2025 – Febuary 2026_
 
 - Prepare and serve beverages in a fast-paced environment while maintaining high standards of customer service
@@ -52,8 +48,7 @@ _March 2025 – Febuary 2026_
 - Build rapport with regular customers and contribute to a welcoming café atmosphere
 
 ## Projects
-SOUNDSPHERE – Human-Centered Design and Development Class Project 
-
+Soundsphere – Human-Centered Design and Development Class Project 
 _May 2025_ 
 
 - Designed a high-fidelity app prototype in Figma, including wireframes, interactive components, and user flows tailored
@@ -70,6 +65,9 @@ design
 
 ## Leadership and Involvement
 - Girls Who Code @ UCF – Event Coordinator
+  
 - Strike Magazine - Events Assistant
+  
 - National Society of Black Engineers – TORCH & PCI Committee Member
+  
 - Color Me Queer - Events Committee Member
