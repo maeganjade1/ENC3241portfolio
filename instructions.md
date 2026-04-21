@@ -10,7 +10,7 @@ machine.
 **Step 2:** Using a measuring cup and a scale, weigh 18g of espresso beans.
 **Step 3:** Pour the 18g of beans into the bean hopper.
 
-[insert image]
+![Alt Text](https://www.artisancoffeeco.com/cdn/shop/articles/iStock-618340264_1786x1192.jpg?v=1634830001)
 _Image 1: Grinding Espresso Beans (Source: Artisan Coffee Co)
 _
 **Step 4:** Take an empty portafilter and set it into the prongs of a grinder machine.
