@@ -26,4 +26,6 @@ Thank you for considering my application. I welcome the opportunity to discuss h
 
 Sincerely,  
 
+![Alt Text](mySignature.png)  
+
 Maegan Pierre
